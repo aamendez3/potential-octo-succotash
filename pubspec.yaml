@@ -1,0 +1,45 @@
+name: asdf
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.3 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/asdf/assets/images/4411220eac663a3751cdfc1f75864ad01.png
+    - packages/asdf/assets/images/logo1.png
+    - packages/asdf/assets/images/4411220eac663a3751cdfc1f75864ad02.png
+    - packages/asdf/assets/images/ellipse1.png
+    - packages/asdf/assets/images/vector9.svg
+    - packages/asdf/assets/images/nam1.png
+    - packages/asdf/assets/images/ellipse2.png
+    - packages/asdf/assets/images/log.png
+    - packages/asdf/assets/images/image1.png
+    - packages/asdf/assets/images/31.png
+    - packages/asdf/assets/images/4411221.png
+    - packages/asdf/assets/images/summertravelpng292x3001.png
+    - packages/asdf/assets/images/4411220eac663a3751cdfc1f75864ad03.png
+    - packages/asdf/assets/images/subtract.png
+    - packages/asdf/assets/images/11.png
+    - packages/asdf/assets/images/21.png
+    - packages/asdf/assets/images/818861search512x5121.png
+    - packages/asdf/assets/images/hearts1.png
+    - packages/asdf/assets/images/61.png
+    - packages/asdf/assets/images/ellipse45.svg
+    - packages/asdf/assets/images/ellipse46.png
+    - packages/asdf/assets/images/51.png
+    - packages/asdf/assets/images/vector109.svg
+    - packages/asdf/assets/images/image2.png
+    - packages/asdf/assets/images/b1.png
